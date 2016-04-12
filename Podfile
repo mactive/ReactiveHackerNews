@@ -11,8 +11,8 @@ target "ReactiveHackerNews" do
 	pod 'SVProgressHUD'
 	pod 'NJKWebViewProgress'
 	pod 'ReactiveCocoa', '~> 2.4.4'
-	pod 'TUSafariActivity', '~> 1.0.1'
-	pod 'AFNetworking', '~> 2.4.1'
+	pod 'TUSafariActivity', '~> 1.0'
+	pod 'AFNetworking', '~> 2.6.0'
 	pod 'AFNetworkActivityLogger', '~> 2.0.3'
 	pod 'AFNetworking2-RACExtensions', '~> 0.0'
 end
@@ -23,14 +23,14 @@ end
 
 target 'HackerNewsToday' do
 	pod 'ReactiveCocoa', '~> 2.4.4'
-	pod 'AFNetworking', '~> 2.4.1'
+	pod 'AFNetworking', '~> 2.6.0'
 	pod 'AFNetworkActivityLogger', '~> 2.0.3'
 	pod 'AFNetworking2-RACExtensions', '~> 0.0'
 end
 
 target 'ReactiveHackerNews WatchKit Extension' do
 	pod 'ReactiveCocoa', '~> 2.4.4'
-	pod 'AFNetworking', '~> 2.4.1'
+	pod 'AFNetworking', '~> 2.6.0'
 	pod 'AFNetworkActivityLogger', '~> 2.0.3'
 	pod 'AFNetworking2-RACExtensions', '~> 0.0'
 end

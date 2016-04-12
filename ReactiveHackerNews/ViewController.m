@@ -106,8 +106,8 @@
 }
 
 - (void) reload {
-    [self.swipeableView discardAllSwipeableViews];
-    [self.swipeableView loadNextSwipeableViewsIfNeeded];
+    [self.swipeableView discardAllViews];
+    [self.swipeableView loadViewsIfNeeded];
 }
 
 - (UIView*)nextViewForSwipeableView:(ZLSwipeableView *)swipeableView {
