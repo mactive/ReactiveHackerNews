@@ -424,12 +424,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8028C7E51AAEF64B00A7AB62 /* Build configuration list for PBXNativeTarget "ReactiveHackerNews WatchKit Extension" */;
 			buildPhases = (
-				CBE0A91FD00D5ADCE49A335D /* Check Pods Manifest.lock */,
+				CBE0A91FD00D5ADCE49A335D /* 📦 Check Pods Manifest.lock */,
 				8028C7BE1AAEF64B00A7AB62 /* Sources */,
 				8028C7BF1AAEF64B00A7AB62 /* Frameworks */,
 				8028C7C01AAEF64B00A7AB62 /* Resources */,
-				4142B5417801A4A6F68921D5 /* Embed Pods Frameworks */,
-				23B3234E1772DEAB213E0930 /* Copy Pods Resources */,
+				4142B5417801A4A6F68921D5 /* 📦 Embed Pods Frameworks */,
+				23B3234E1772DEAB213E0930 /* 📦 Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -461,14 +461,14 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 804854071A89166D008C0D75 /* Build configuration list for PBXNativeTarget "ReactiveHackerNews" */;
 			buildPhases = (
-				B26F71401C0B025F97EDA8AA /* Check Pods Manifest.lock */,
+				B26F71401C0B025F97EDA8AA /* 📦 Check Pods Manifest.lock */,
 				804853E01A89166D008C0D75 /* Sources */,
 				804853E11A89166D008C0D75 /* Frameworks */,
 				804853E21A89166D008C0D75 /* Resources */,
 				80BAE0CE1AA1ED75004F4242 /* ShellScript */,
 				8049BBA31AABF451002F1A83 /* Embed App Extensions */,
-				78843071F08A89206BDA29F9 /* Embed Pods Frameworks */,
-				ABAB021BA968F8020BAE4216 /* Copy Pods Resources */,
+				78843071F08A89206BDA29F9 /* 📦 Embed Pods Frameworks */,
+				ABAB021BA968F8020BAE4216 /* 📦 Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -484,12 +484,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8048540A1A89166D008C0D75 /* Build configuration list for PBXNativeTarget "ReactiveHackerNewsTests" */;
 			buildPhases = (
-				632E0D0108DBF834732FFA35 /* Check Pods Manifest.lock */,
+				632E0D0108DBF834732FFA35 /* 📦 Check Pods Manifest.lock */,
 				804853F91A89166D008C0D75 /* Sources */,
 				804853FA1A89166D008C0D75 /* Frameworks */,
 				804853FB1A89166D008C0D75 /* Resources */,
-				B1EBF845A7A272D35DFCBBBC /* Embed Pods Frameworks */,
-				3AA8C1C4ADCFA3FC5B7A00D3 /* Copy Pods Resources */,
+				B1EBF845A7A272D35DFCBBBC /* 📦 Embed Pods Frameworks */,
+				3AA8C1C4ADCFA3FC5B7A00D3 /* 📦 Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -505,12 +505,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8049BBA21AABF451002F1A83 /* Build configuration list for PBXNativeTarget "HackerNewsToday" */;
 			buildPhases = (
-				C11EF6AC8945BA442F7CFD02 /* Check Pods Manifest.lock */,
+				C11EF6AC8945BA442F7CFD02 /* 📦 Check Pods Manifest.lock */,
 				8049BB8E1AABF451002F1A83 /* Sources */,
 				8049BB8F1AABF451002F1A83 /* Frameworks */,
 				8049BB901AABF451002F1A83 /* Resources */,
-				BC26CDBB3589B7F506ACC742 /* Embed Pods Frameworks */,
-				D5C9AC96251039C96332274D /* Copy Pods Resources */,
+				BC26CDBB3589B7F506ACC742 /* 📦 Embed Pods Frameworks */,
+				D5C9AC96251039C96332274D /* 📦 Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -624,14 +624,14 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		23B3234E1772DEAB213E0930 /* Copy Pods Resources */ = {
+		23B3234E1772DEAB213E0930 /* 📦 Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Copy Pods Resources";
+			name = "📦 Copy Pods Resources";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -639,14 +639,14 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ReactiveHackerNews WatchKit Extension/Pods-ReactiveHackerNews WatchKit Extension-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		3AA8C1C4ADCFA3FC5B7A00D3 /* Copy Pods Resources */ = {
+		3AA8C1C4ADCFA3FC5B7A00D3 /* 📦 Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Copy Pods Resources";
+			name = "📦 Copy Pods Resources";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -654,14 +654,14 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ReactiveHackerNewsTests/Pods-ReactiveHackerNewsTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		4142B5417801A4A6F68921D5 /* Embed Pods Frameworks */ = {
+		4142B5417801A4A6F68921D5 /* 📦 Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Embed Pods Frameworks";
+			name = "📦 Embed Pods Frameworks";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -669,14 +669,14 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ReactiveHackerNews WatchKit Extension/Pods-ReactiveHackerNews WatchKit Extension-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		632E0D0108DBF834732FFA35 /* Check Pods Manifest.lock */ = {
+		632E0D0108DBF834732FFA35 /* 📦 Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Check Pods Manifest.lock";
+			name = "📦 Check Pods Manifest.lock";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -684,14 +684,14 @@
 			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		78843071F08A89206BDA29F9 /* Embed Pods Frameworks */ = {
+		78843071F08A89206BDA29F9 /* 📦 Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Embed Pods Frameworks";
+			name = "📦 Embed Pods Frameworks";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -712,14 +712,14 @@
 			shellPath = /bin/sh;
 			shellScript = "./Fabric.framework/run 3a4e9829064aea01fce983e8a8284f5b93965fb0 abb838497d960700471223f8fb0f1e36515bfa27da3bc8d6ac30d0db20837eed";
 		};
-		ABAB021BA968F8020BAE4216 /* Copy Pods Resources */ = {
+		ABAB021BA968F8020BAE4216 /* 📦 Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Copy Pods Resources";
+			name = "📦 Copy Pods Resources";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -727,14 +727,14 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ReactiveHackerNews/Pods-ReactiveHackerNews-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		B1EBF845A7A272D35DFCBBBC /* Embed Pods Frameworks */ = {
+		B1EBF845A7A272D35DFCBBBC /* 📦 Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Embed Pods Frameworks";
+			name = "📦 Embed Pods Frameworks";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -742,14 +742,14 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ReactiveHackerNewsTests/Pods-ReactiveHackerNewsTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		B26F71401C0B025F97EDA8AA /* Check Pods Manifest.lock */ = {
+		B26F71401C0B025F97EDA8AA /* 📦 Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Check Pods Manifest.lock";
+			name = "📦 Check Pods Manifest.lock";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -757,14 +757,14 @@
 			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		BC26CDBB3589B7F506ACC742 /* Embed Pods Frameworks */ = {
+		BC26CDBB3589B7F506ACC742 /* 📦 Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Embed Pods Frameworks";
+			name = "📦 Embed Pods Frameworks";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -772,14 +772,14 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-HackerNewsToday/Pods-HackerNewsToday-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		C11EF6AC8945BA442F7CFD02 /* Check Pods Manifest.lock */ = {
+		C11EF6AC8945BA442F7CFD02 /* 📦 Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Check Pods Manifest.lock";
+			name = "📦 Check Pods Manifest.lock";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -787,14 +787,14 @@
 			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		CBE0A91FD00D5ADCE49A335D /* Check Pods Manifest.lock */ = {
+		CBE0A91FD00D5ADCE49A335D /* 📦 Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Check Pods Manifest.lock";
+			name = "📦 Check Pods Manifest.lock";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -802,14 +802,14 @@
 			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		D5C9AC96251039C96332274D /* Copy Pods Resources */ = {
+		D5C9AC96251039C96332274D /* 📦 Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Copy Pods Resources";
+			name = "📦 Copy Pods Resources";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
